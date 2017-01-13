@@ -1,0 +1,6 @@
+Instructiuni:
+1.Se compileaza jocul, acesta afiseaza tabla si initializarea ei cu piesele respective
+2.Jucatorii au dreptul sa dea cu zarurile. Se alege efectuarea mutrilor (Ex. daca dau 3 1 am posibilitatea sa fac 3 apoi 1 sau 1 apoi 3)
+3.Se aleg pozitiile de pe care se muta o piesa de la 0 la 23. Se numeroteaza astfel: colt dreapta sus este pozitia 0, colt stanga sus este 11, colt stanga jos este 12 iar colt dreapta jos este 23.
+4.Sensul pulurilor albe este de la 0 la 23 iar sensul pulurilor negre este de la 23 la 0.
+5.Casele jucatorilor sunt formate din pozitiile 0-5 pentru negre respectiv 18-23 albe           
